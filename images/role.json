@@ -1,0 +1,44 @@
+{"frames": {
+
+"guai.png":
+{
+	"frame": {"x":2,"y":2,"w":257,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":282},
+	"sourceSize": {"w":257,"h":282}
+},
+"lead.png":
+{
+	"frame": {"x":261,"y":2,"w":258,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":4,"w":258,"h":260},
+	"sourceSize": {"w":280,"h":280}
+},
+"ren.png":
+{
+	"frame": {"x":2,"y":286,"w":110,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":21,"w":110,"h":168},
+	"sourceSize": {"w":120,"h":200}
+},
+"ren1.png":
+{
+	"frame": {"x":114,"y":286,"w":111,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":116},
+	"sourceSize": {"w":111,"h":116}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "role.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0e2ae1c7f0eb2bcabfa241263aea567a:1/1$"
+}
+}
